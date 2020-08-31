@@ -2,7 +2,7 @@
 
 [Source](https://github.com/thetechrobo/dbad-clean)
 
-> Version 1.1, August 2020
+> Version 1.2, August 2020
 
 > Copyright (c) \<YEAR\> \<FULLNAME\>
  
