@@ -8,7 +8,7 @@
  
  Everyone is permitted to copy and distribute verbatim or modified copies of this license document.
 
-> DON'T BE A RAT PUBLIC LICENSE
+> DON'T BE A RAT PUBLIC LICENSE  
 > TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
  1. Do whatever you like with the original work, just don't be a rat.
